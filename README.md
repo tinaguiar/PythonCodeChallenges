@@ -1,6 +1,6 @@
-# PythonCodeChallenges
+# PythonCodeChallenges 🐍
 
-## Challenge 1: Even or Odd
+## 🔢 Challenge 1: Even or Odd 
 
 Problem: `Write a function that takes a number as input and returns whether the number is even or odd.`
 
